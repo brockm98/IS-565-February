@@ -8,7 +8,7 @@
 - Tucker Weibell
 
 ## Overview
-This project essentially allows for anyone to get setup with an instance of Kali Linux in AWS pretty easily with just a few commands
+This project essentially allows for anyone to get setup with an instance of Kali Linux (used for Defensive and Offensive Cybersecurity as well as incident response) in AWS pretty easily with just a few commands
 
 **NOTE: USING THIS DEPLOYS RESOURCES THAT COST MONEY**
 
